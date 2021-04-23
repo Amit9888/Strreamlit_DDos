@@ -17,9 +17,8 @@ This is project is about a Distributed Denial of Service attack classification.I
 ##Image
 
 
-![alt text](https://github.com/Amit9888/Strreamlit_DDos/blob/Master/Capture.png?raw=true)
+![alt text](https://github.com/Amit9888/Strreamlit_DDos/blob/Master/Capture.PNG?raw=true)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## packages used
 
