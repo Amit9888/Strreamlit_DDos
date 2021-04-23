@@ -3,9 +3,7 @@
 # Product Name
 > Classify the type of Distributed Dos attack.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+
 
 This is project is about a Distributed Denial of Service attack classification.It is a multi-class classification project which helps to classify with help of the input parameters.
 
@@ -19,8 +17,9 @@ This is project is about a Distributed Denial of Service attack classification.I
 ##Image
 
 
-![alt text](https://github.com/Amit9888/Strreamlit_DDos/blob/master/Capture.png?raw=true)
+![alt text](https://github.com/Amit9888/Strreamlit_DDos/blob/Master/Capture.png?raw=true)
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## packages used
 
