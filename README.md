@@ -1,6 +1,6 @@
 # Strreamlit_DDos
 
-# Product Name
+# Project Name
 > Classify the type of Distributed Dos attack.
 
 
@@ -9,6 +9,16 @@ This is project is about a Distributed Denial of Service attack classification.I
 
 
 ![](header.png)
+
+## Overview
+This is a Flask web app which tells  the  type  of  attack.
+
+
+**##Problems faced and  how i dealt with it..**
+The dataset consist of  multiple classes in the output variable.Also the dataset was imbalanced dataset(I.e in the dataset there were many  rows which had output variable value as normal.Due to such bias towards one class which may give incorrect results as output so to solve the problem we used the class weight method.)
+
+## Motivation
+I learned machine learning models both types supervised as well unsupervised machine learning algorith.It is important to show the model working using  a real world app using the flask framework.
 
 
 
